@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Xenifits
+- 👀 I’m interested in coding and mapmaking
+- 🌱 I’m currently learning mapmaking and unity/python coding
+- 😄 Pronouns: He/Him
